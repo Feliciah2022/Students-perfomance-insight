@@ -16,17 +16,7 @@ Impact of test preparation courses
 Average scores by category
 The dashboard was built to simplify large datasets into clear insights for educators, researchers, and decision-makers.
 
- Dashboard Preview
-Students Performance Dashboard (Looker Studio)
-
-🔗 View the interactive dashboard here:
-https://lookerstudio.google.com/reporting/4fb1225b-fc31-4b9c-97b0-cae80793a221/page/5dnIF
-
-Dashboard Screenshot
-
-(Place the screenshot from your repository here, e.g. ![Dashboard](dashboard.png) after uploading it to GitHub)
-
-📁 Project Files
+ Project Files
 File	Description
 StudentsPerformance.csv	Raw dataset used for the analysis
 STUDENTS PERFORMANCE ANALYSIS.pptx	Presentation summarizing insights
